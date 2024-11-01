@@ -17,6 +17,7 @@
 ## School Projects
 
 - 💻[expressWS](https://github.com/PureCilantro/expressWS) An introductory API design from an API REST course.<br>
-&emsp; [ProyectoFinalExpress](https://github.com/PureCilantro/ProyectoFinalExpress) An API REST as final project of the same course, completed with consuming web page.
+- 🌐[ProyectoFinalExpress](https://github.com/PureCilantro/ProyectoFinalExpress) An API REST as final project of the same course, completed with consuming web page.
 - 🎒[plataformaUAQ](https://github.com/PureCilantro/plataformaUAQ) A school managing system for grades, groups, schedules, teachers and stundents backend and frontend.
-  
+- 💾[CitasMemorias](https://github.com/PureCilantro/CitasMemorias) A funny memory wiki app.
+- 🏪[Unimarket](https://github.com/PureCilantro/UniMarket)⭐A university e-commerce app directed for in-campus trading and sale of items.
